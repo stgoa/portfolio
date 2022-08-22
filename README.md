@@ -5,4 +5,4 @@ automation of the integration of linkedin, jsonresumes &amp; latex templates (pe
 
 To do:
 
-- documentationgit
+- documentation
